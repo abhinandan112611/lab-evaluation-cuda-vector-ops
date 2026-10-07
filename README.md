@@ -12,7 +12,7 @@
 </p>
 
 **Author:** Abhinandan
-**Course:** Parallel Computing Mini-Project (Lab Evaluation), Topic 7: GPU Vector Operations (CUDA)
+**Course:** Parallel Computing (Lab Evaluation), Topic 7: GPU Vector Operations (CUDA)
 
 ---
 
