@@ -13,14 +13,10 @@
 
 **Course:** Parallel Computing Mini-Project (Lab Evaluation), Team 7: GPU Vector Operations (CUDA)
 
-## Team Members
+## Prepared By
 
-1. Abhinandan Patil
-2. Preetam N
-3. Sai Aaryan
-4. Amit K
+ Abhinandan Patil
 
----
 
 ## Table of Contents
 
